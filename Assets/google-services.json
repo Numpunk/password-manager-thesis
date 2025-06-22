@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1018669924370",
+    "project_id": "numpunk-encrypt",
+    "storage_bucket": "numpunk-encrypt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018669924370:android:b8bddd8a77c75da30b98cb",
+        "android_client_info": {
+          "package_name": "com.Numpunk.Encrypt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFZkN7yROY9rwuFnXdcYlZkXrA_XZyk30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

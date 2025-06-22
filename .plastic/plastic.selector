@@ -1,0 +1,4 @@
+repository "Encrypt-Diplomna@Numpunk@cloud"
+  path "/"
+    br "/main"
+    co "/main"
